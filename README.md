@@ -12,6 +12,7 @@ My assignment for course 3 week 4
 ```features.txt``` has the name of the features in the data sets.  
 
 ### Script blocks
+*Please read ```run_analysis.R``` to get details*  
 Load the respective Librarys  
 Load the associated Meta Data  
 Load the Training & Testing Data Set  
